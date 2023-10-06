@@ -1,0 +1,1 @@
+alert("Welcome My to Sigma Web Development Course journey")
